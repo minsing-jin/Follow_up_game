@@ -1,6 +1,6 @@
 # Follow-up program structure
 
-1. Call words library
+1. Crawling naver Korean library
 2. Select machine level
 2-1. high -> random difficult word
 2-2. normal -> random word
