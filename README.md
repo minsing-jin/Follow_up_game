@@ -1,5 +1,3 @@
-# Follow_up_game
-
 # Follow-up program structure
 
 1. Call words library
